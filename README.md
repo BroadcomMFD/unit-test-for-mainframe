@@ -111,7 +111,7 @@ To analyze code coverage in your project, follow the steps outlined below.
 
 2. From the `src` folder, open the specific COBOL source file that you want to examine. The code coverage information is displayed in the editor.
 
-![Coverage Dashboard](https://broadcommfd/unit-test-for-mainframe/GIFs/CoverageDashboard.gif)
+![Coverage Dashboard](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CoverageDashboard.gif)
 
 #### Integrating Coverage Reports into CI/CD Pipelines
 
@@ -131,7 +131,7 @@ Find and select a snippet:
 
 3. Select the desired snippet. The code sample is copied to your test program.
 
-![Code Snippets](https://broadcommfd/unit-test-for-mainframe/GIFs/CodeSnippets.gif)
+![Code Snippets](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CodeSnippets.gif)
 
 ### Privacy Notice
 The extensions for Visual Studio Code developed by Broadcom Inc., including its corporate affiliates and subsidiaries, ("Broadcom") are provided free of charge, but in order to better understand and meet its users’ needs, Broadcom may collect, use, analyze and retain anonymous users’ metadata and interaction data, (collectively, “Usage Data”) and aggregate such Usage Data with similar Usage Data of other Broadcom customers. Please find more detailed information in [License and Service Terms & Repository](https://www.broadcom.com/company/legal/licensing).
