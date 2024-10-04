@@ -95,11 +95,11 @@ A context menu appears.
 
 ### View Code Coverage Metrics
 
-To analyze code coverage in your project, follow the steps outlined below.
+To analyze code coverage in your project, perform the following steps.
 
 #### Access Coverage Dashboard
 
-1. Execute your tests with the coverage option enabled. The resulting `coverage` folder is created.
+1. Execute your tests with the coverage option enabled. The `coverage` folder is created.
 
 2. Right-click the `coverage` folder and select **Test4z Open Coverage Dashboard**. This action opens the Code Coverage panel.
 
@@ -119,7 +119,7 @@ If you want to publish code coverage reports within your CI/CD pipeline, multipl
 
 ### Code Snippets
 
-The Unit Test for Mainframe VS Code extension provides COBOL code snippets that make it faster and easier to create your unit tests. Most of the code snippets directly correspond to the Test4z COBOL APIs. For more information on the Test4z COBOL APIs, see the `COBOL API` section in the Test4z documentation.
+The Unit Test for Mainframe VS Code extension provides COBOL code snippets that make it faster and easier to create your unit tests. Most of the code snippets directly correspond to the Test4z COBOL APIs. For more information on the Test4z COBOL APIs, see the `COBOL API` section in the [Test4z documentation](https://techdocs.broadcom.com/test4z)
 
 Some snippets contain comments or highlighted variables to assist in customizing the sample code for your test program.
 
