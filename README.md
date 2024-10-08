@@ -133,24 +133,11 @@ Find and select a snippet:
 
 ![Code Snippets](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CodeSnippets.gif)
 
-### Privacy Notice
-The extensions for Visual Studio Code developed by Broadcom Inc., including its corporate affiliates and subsidiaries, ("Broadcom") are provided free of charge, but in order to better understand and meet its users’ needs, Broadcom may collect, use, analyze and retain anonymous users’ metadata and interaction data, (collectively, “Usage Data”) and aggregate such Usage Data with similar Usage Data of other Broadcom customers. Please find more detailed information in [License and Service Terms & Repository](https://www.broadcom.com/company/legal/licensing).
 
 ### Technical Assistance and Support for Unit Test for Mainframe
 The Unit Test for Mainframe VS Code extension is made available to customers on the Visual Studio Code Marketplace in accordance with the terms and conditions contained in the provided End-User License Agreement (EULA).
 
-If you are on active support for Test4z, you get technical assistance and support in accordance with the terms, guidelines, details, and parameters that are located within the Broadcom [Working with Support](https://techdocs.broadcom.com/us/product-content/admin-content/ca-support-policies.html?intcmp=footernav) guide.
-
-This support generally includes:
-
-Telephone and online access to technical support
-Ability to submit new incidents 24x7x365
-24x7x365 continuous support for Severity 1 incidents
-24x7x365 access to Broadcom Support
-Interactive remote diagnostic support
-Technical support cases must be submitted to Broadcom in accordance with guidance provided in “Working with Support”.
-
-Note: To receive technical assistance and support, you must remain compliant with “Working with Support”, be current on all applicable licensing and maintenance requirements, and maintain an environment in which all computer hardware, operating systems, and third party software associated with the affected Broadcom software are on the releases and version levels from the manufacturer that Broadcom designates as compatible with the software. Changes you elect to make to your operating environment could detrimentally affect the performance of Broadcom software and Broadcom shall not be responsible for these effects or any resulting degradation in performance of the Broadcom software. Severity 1 cases must be opened via telephone and elevations of lower severity incidents to Severity 1 status must be requested via telephone.
+If you are on active support for Test4z, you may be entitled to technical assistance and support in accordance with the terms, guidelines, details, and parameters that are located within the Broadcom [Working with Support](https://techdocs.broadcom.com/us/product-content/admin-content/ca-support-policies.html?intcmp=footernav) guide.
 
 ---
 
