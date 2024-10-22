@@ -25,7 +25,7 @@ t4z --version
 
 Unit Test for Mainframe is supported on Visual Studio Code.
 
-We recommend the use of [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) to access mainframe data sets in connection with your testing activities. You can use Zowe Explorer to submit JCL or to edit the recorded data. Zowe Explorer is available as part of the [Code4z](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.code4z-extension-pack) package.
+We recommend the use of [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) to access mainframe data sets in connection with your testing activities. You can use Zowe Explorer to submit JCL or to edit the recorded data. Zowe Explorer is available as part of the [Code4z](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.code4z-extension-pack) package. The Unit Test for Mainframe extension works seamlessly with the Code4z extension pack for z/OS application developers.
 
 
 
@@ -95,7 +95,7 @@ A context menu appears.
 
 ### View Code Coverage Metrics
 
-To analyze code coverage in your project, perform the following steps.
+To analyze code coverage in your project, perform the following steps:
 
 #### Access Coverage Dashboard
 
@@ -134,10 +134,18 @@ Find and select a snippet:
 ![Code Snippets](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CodeSnippets.gif)
 
 
-### Technical Assistance and Support for Unit Test for Mainframe
+### License
+
 The Unit Test for Mainframe VS Code extension is made available to customers on the Visual Studio Code Marketplace in accordance with the terms and conditions contained in the provided End-User License Agreement (EULA).
 
-If you are on active support for Test4z, you may be entitled to technical assistance and support in accordance with the terms, guidelines, details, and parameters that are located within the Broadcom [Working with Support](https://techdocs.broadcom.com/us/product-content/admin-content/ca-support-policies.html?intcmp=footernav) guide.
+
+### Privacy Notice
+
+In the event that Broadcom needs to process your personal data this is done in accordance with Broadcom’s [Privacy Notice](https://www.broadcom.com/company/legal/privacy/policy).
+
+### Technical Assistance and Support
+
+If you are on active support for Test4z, you may be entitled to technical assistance and support in accordance with the terms of your agreement and Broadcom's support policies.
 
 ---
 
