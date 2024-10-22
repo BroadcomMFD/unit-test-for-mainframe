@@ -10,4 +10,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 #### Third-party Software Agreements
 
-Third-party software agreement information is located in the [Broadcom Legal Notices site](https://support.broadcom.com/web/ecx/legal-notices-external). Select  or search for "Test4z" from the product dropdown to view all legal notices.
+Third-party software agreement information is located in the [Broadcom Legal Notices site](https://support.broadcom.com/web/ecx/legal-notices-external). Select or search for "Test4z" from the product dropdown to view all legal notices.
