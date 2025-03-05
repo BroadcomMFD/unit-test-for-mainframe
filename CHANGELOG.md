@@ -5,3 +5,7 @@ All notable changes to the Unit Test for Mainframe extension are documented in t
 ## [1.1.101] - 2024-08-12
 
 - Initial release
+
+## [1.2.106] - 2025-03-04
+
+- Bug Fixes
