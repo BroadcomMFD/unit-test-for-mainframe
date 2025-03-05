@@ -12,7 +12,7 @@ The extension includes the following features:
 ## Prerequisites
 
   - VS Code 1.77.0 or higher
-  - Test4z 1.1.101, including the Command Line Interface (part of the npm package, refer to the _Install Test4z Command Line Interface_ section in the [Test4z documentation](https://techdocs.broadcom.com/test4z))
+  - Test4z including the Command Line Interface (part of the npm package, refer to the _Install Test4z Command Line Interface_ section in the [Test4z documentation](https://techdocs.broadcom.com/test4z))
 
 Verify their installation from the CLI:
 
