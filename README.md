@@ -99,7 +99,7 @@ To analyze code coverage in your project, perform the following steps:
 
 2. From the `src` folder, open the specific COBOL source file that you want to examine. The code coverage information is displayed in the editor.
 
-![Coverage Dashboard](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CoverageDashboard.gif)
+![Coverage Dashboard](https://raw.githubusercontent.com/BroadcomMFD/unit-test-for-mainframe/main/GIF/CoverageDashboard.gif)
 
 #### Integrating Coverage Reports into CI/CD Pipelines
 
@@ -119,7 +119,7 @@ Find and select a snippet:
 
 3. Select the desired snippet. The code sample is copied to your test program.
 
-![Code Snippets](https://github.com/BroadcomMFD/unit-test-for-mainframe/blob/main/GIF/CodeSnippets.gif)
+![Code Snippets](https://raw.githubusercontent.com/BroadcomMFD/unit-test-for-mainframe/main/GIF/CodeSnippets.gif)
 
 
 ## License
