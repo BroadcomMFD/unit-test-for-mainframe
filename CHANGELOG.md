@@ -9,3 +9,7 @@ All notable changes to the Unit Test for Mainframe extension are documented in t
 ## [1.2.106] - 2025-04-03
 
 - Bug Fixes
+
+## [1.2.113] - 2025-07-25
+
+- README updates for Code4z foundational extension pack
